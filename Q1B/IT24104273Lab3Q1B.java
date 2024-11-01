@@ -26,4 +26,3 @@ System.out.println("");
 System.out.print("The total amount is: " + TotalAmountwithDiscount);
 }
 }
-
